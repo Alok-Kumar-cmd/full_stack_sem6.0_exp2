@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "mui-dashboard",
+=======
+  "name": "vite_project",
+>>>>>>> a48a76aa3af72b7fcd2a3a0dbb61f8810db8d0d4
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,23 +14,38 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.1",
     "@mui/material": "^7.3.7",
     "bootstrap": "^5.3.8",
     "react": "^19.2.0",
     "react-bootstrap": "^2.10.10",
+=======
+    "react": "^19.2.0",
+>>>>>>> a48a76aa3af72b7fcd2a3a0dbb61f8810db8d0d4
     "react-dom": "^19.2.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",
     "@types/react": "^19.2.5",
     "@types/react-dom": "^19.2.3",
+<<<<<<< HEAD
     "@vitejs/plugin-react": "^5.1.1",
+=======
+    "@vitejs/plugin-react-swc": "^4.2.2",
+>>>>>>> a48a76aa3af72b7fcd2a3a0dbb61f8810db8d0d4
     "eslint": "^9.39.1",
     "eslint-plugin-react-hooks": "^7.0.1",
     "eslint-plugin-react-refresh": "^0.4.24",
     "globals": "^16.5.0",
+<<<<<<< HEAD
     "vite": "^7.2.4"
+=======
+    "vite": "npm:rolldown-vite@7.2.5"
+  },
+  "overrides": {
+    "vite": "npm:rolldown-vite@7.2.5"
+>>>>>>> a48a76aa3af72b7fcd2a3a0dbb61f8810db8d0d4
   }
 }
